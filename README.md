@@ -9,5 +9,5 @@ npm install -g node-dev
 
 运行
 ```javascript
-node-dev index.js
+node-dev server.js
 ```
